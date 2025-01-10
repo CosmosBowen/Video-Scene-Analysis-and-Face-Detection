@@ -1,0 +1,5747 @@
+{
+  "clips": [
+    {
+      "file_name": "scene_5.mp4",
+      "start_timecode": "00:00:06.798",
+      "end_timecode": "00:00:08.217",
+      "target_face_coordinates": [
+        {
+          "frame_id": 6,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              803,
+              204,
+              385,
+              386
+            ]
+          ]
+        },
+        {
+          "frame_id": 7,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              803,
+              204,
+              385,
+              386
+            ]
+          ]
+        },
+        {
+          "frame_id": 8,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              812,
+              206,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 9,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              812,
+              206,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 10,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              812,
+              206,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 11,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              812,
+              206,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 12,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              812,
+              206,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 13,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              812,
+              206,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 14,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              812,
+              206,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 15,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              812,
+              206,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 16,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              812,
+              206,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 17,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              812,
+              206,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 18,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              812,
+              206,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 19,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              812,
+              206,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 20,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              812,
+              206,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 21,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              812,
+              206,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 22,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              812,
+              206,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 23,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              812,
+              206,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 24,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              812,
+              206,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 25,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              812,
+              206,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 26,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              812,
+              206,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 27,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              812,
+              206,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 28,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              812,
+              206,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 29,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              812,
+              206,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 30,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              812,
+              206,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 31,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              812,
+              206,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 32,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              854,
+              231,
+              268,
+              267
+            ]
+          ]
+        },
+        {
+          "frame_id": 33,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              812,
+              206,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 34,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              854,
+              231,
+              268,
+              267
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "file_name": "scene_15.mp4",
+      "start_timecode": "00:00:22.064",
+      "end_timecode": "00:00:24.149",
+      "target_face_coordinates": [
+        {
+          "frame_id": 20,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              675,
+              204,
+              385,
+              386
+            ]
+          ]
+        },
+        {
+          "frame_id": 21,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              740,
+              241,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 22,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              740,
+              241,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 23,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              765,
+              290,
+              268,
+              268
+            ]
+          ]
+        },
+        {
+          "frame_id": 24,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              765,
+              290,
+              268,
+              268
+            ]
+          ]
+        },
+        {
+          "frame_id": 25,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              740,
+              241,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 26,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              740,
+              241,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 27,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              675,
+              204,
+              385,
+              386
+            ]
+          ]
+        },
+        {
+          "frame_id": 28,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              675,
+              204,
+              385,
+              386
+            ]
+          ]
+        },
+        {
+          "frame_id": 29,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              705,
+              241,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 31,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              633,
+              206,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 32,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              562,
+              170,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 33,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              562,
+              170,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 34,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              562,
+              170,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 35,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              562,
+              170,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 36,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              562,
+              170,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 37,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              598,
+              170,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 38,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              589,
+              204,
+              385,
+              386
+            ]
+          ]
+        },
+        {
+          "frame_id": 39,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              589,
+              204,
+              385,
+              386
+            ]
+          ]
+        },
+        {
+          "frame_id": 40,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              598,
+              206,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 41,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              598,
+              241,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 42,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              562,
+              241,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 43,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              562,
+              277,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 44,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              562,
+              277,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 45,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              504,
+              204,
+              385,
+              386
+            ]
+          ]
+        },
+        {
+          "frame_id": 46,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              562,
+              241,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 47,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              562,
+              206,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 48,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              598,
+              241,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 49,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              633,
+              241,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 50,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              633,
+              241,
+              321,
+              321
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "file_name": "scene_18.mp4",
+      "start_timecode": "00:00:28.237",
+      "end_timecode": "00:00:30.239",
+      "target_face_coordinates": [
+        {
+          "frame_id": 8,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1199,
+              408,
+              155,
+              155
+            ]
+          ]
+        },
+        {
+          "frame_id": 14,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1199,
+              408,
+              155,
+              155
+            ]
+          ]
+        },
+        {
+          "frame_id": 21,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1191,
+              387,
+              186,
+              186
+            ]
+          ]
+        },
+        {
+          "frame_id": 23,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1199,
+              391,
+              155,
+              155
+            ]
+          ]
+        },
+        {
+          "frame_id": 24,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1199,
+              391,
+              155,
+              155
+            ]
+          ]
+        },
+        {
+          "frame_id": 25,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1199,
+              391,
+              155,
+              155
+            ]
+          ]
+        },
+        {
+          "frame_id": 26,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1199,
+              391,
+              155,
+              155
+            ]
+          ]
+        },
+        {
+          "frame_id": 27,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1199,
+              391,
+              155,
+              155
+            ]
+          ]
+        },
+        {
+          "frame_id": 28,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1199,
+              391,
+              155,
+              155
+            ]
+          ]
+        },
+        {
+          "frame_id": 29,
+          "num_detected_faces": 2,
+          "bbox": [
+            [
+              1199,
+              391,
+              155,
+              155
+            ],
+            [
+              1161,
+              758,
+              36,
+              36
+            ]
+          ]
+        },
+        {
+          "frame_id": 31,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1199,
+              391,
+              155,
+              155
+            ]
+          ]
+        },
+        {
+          "frame_id": 32,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1199,
+              391,
+              155,
+              155
+            ]
+          ]
+        },
+        {
+          "frame_id": 33,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1171,
+              366,
+              185,
+              186
+            ]
+          ]
+        },
+        {
+          "frame_id": 34,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1171,
+              366,
+              185,
+              186
+            ]
+          ]
+        },
+        {
+          "frame_id": 35,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1171,
+              366,
+              185,
+              186
+            ]
+          ]
+        },
+        {
+          "frame_id": 37,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1171,
+              366,
+              185,
+              186
+            ]
+          ]
+        },
+        {
+          "frame_id": 38,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1171,
+              366,
+              185,
+              186
+            ]
+          ]
+        },
+        {
+          "frame_id": 39,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1182,
+              391,
+              154,
+              155
+            ]
+          ]
+        },
+        {
+          "frame_id": 47,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1150,
+              366,
+              186,
+              186
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "file_name": "scene_19.mp4",
+      "start_timecode": "00:00:30.239",
+      "end_timecode": "00:00:32.199",
+      "target_face_coordinates": [
+        {
+          "frame_id": 1,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              605,
+              246,
+              462,
+              462
+            ]
+          ]
+        },
+        {
+          "frame_id": 4,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              605,
+              246,
+              462,
+              462
+            ]
+          ]
+        },
+        {
+          "frame_id": 9,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              605,
+              246,
+              462,
+              462
+            ]
+          ]
+        },
+        {
+          "frame_id": 10,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              605,
+              246,
+              462,
+              462
+            ]
+          ]
+        },
+        {
+          "frame_id": 12,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              605,
+              246,
+              462,
+              462
+            ]
+          ]
+        },
+        {
+          "frame_id": 13,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              605,
+              246,
+              462,
+              462
+            ]
+          ]
+        },
+        {
+          "frame_id": 14,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              605,
+              246,
+              462,
+              462
+            ]
+          ]
+        },
+        {
+          "frame_id": 16,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              605,
+              246,
+              462,
+              462
+            ]
+          ]
+        },
+        {
+          "frame_id": 17,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              605,
+              246,
+              462,
+              462
+            ]
+          ]
+        },
+        {
+          "frame_id": 18,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              605,
+              246,
+              462,
+              462
+            ]
+          ]
+        },
+        {
+          "frame_id": 19,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              605,
+              246,
+              462,
+              462
+            ]
+          ]
+        },
+        {
+          "frame_id": 22,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              605,
+              246,
+              462,
+              462
+            ]
+          ]
+        },
+        {
+          "frame_id": 23,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              605,
+              246,
+              462,
+              462
+            ]
+          ]
+        },
+        {
+          "frame_id": 24,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              605,
+              246,
+              462,
+              462
+            ]
+          ]
+        },
+        {
+          "frame_id": 25,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              605,
+              246,
+              462,
+              462
+            ]
+          ]
+        },
+        {
+          "frame_id": 26,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              605,
+              246,
+              462,
+              462
+            ]
+          ]
+        },
+        {
+          "frame_id": 28,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              605,
+              246,
+              462,
+              462
+            ]
+          ]
+        },
+        {
+          "frame_id": 31,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              605,
+              246,
+              462,
+              462
+            ]
+          ]
+        },
+        {
+          "frame_id": 39,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              605,
+              246,
+              462,
+              462
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "file_name": "scene_23.mp4",
+      "start_timecode": "00:00:38.038",
+      "end_timecode": "00:00:39.998",
+      "target_face_coordinates": [
+        {
+          "frame_id": 1,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1085,
+              268,
+              129,
+              129
+            ]
+          ]
+        },
+        {
+          "frame_id": 2,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1095,
+              283,
+              107,
+              107
+            ]
+          ]
+        },
+        {
+          "frame_id": 3,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1085,
+              254,
+              129,
+              129
+            ]
+          ]
+        },
+        {
+          "frame_id": 4,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1107,
+              271,
+              107,
+              107
+            ]
+          ]
+        },
+        {
+          "frame_id": 5,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1107,
+              271,
+              107,
+              107
+            ]
+          ]
+        },
+        {
+          "frame_id": 6,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1107,
+              283,
+              107,
+              107
+            ]
+          ]
+        },
+        {
+          "frame_id": 7,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1095,
+              295,
+              107,
+              107
+            ]
+          ]
+        },
+        {
+          "frame_id": 8,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1095,
+              307,
+              107,
+              107
+            ]
+          ]
+        },
+        {
+          "frame_id": 9,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1083,
+              319,
+              107,
+              107
+            ]
+          ]
+        },
+        {
+          "frame_id": 10,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1083,
+              319,
+              107,
+              107
+            ]
+          ]
+        },
+        {
+          "frame_id": 11,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1070,
+              311,
+              129,
+              129
+            ]
+          ]
+        },
+        {
+          "frame_id": 12,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1056,
+              311,
+              129,
+              129
+            ]
+          ]
+        },
+        {
+          "frame_id": 13,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1056,
+              297,
+              129,
+              129
+            ]
+          ]
+        },
+        {
+          "frame_id": 14,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1056,
+              297,
+              129,
+              129
+            ]
+          ]
+        },
+        {
+          "frame_id": 15,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1071,
+              307,
+              107,
+              107
+            ]
+          ]
+        },
+        {
+          "frame_id": 16,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1070,
+              282,
+              129,
+              129
+            ]
+          ]
+        },
+        {
+          "frame_id": 17,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1070,
+              268,
+              129,
+              129
+            ]
+          ]
+        },
+        {
+          "frame_id": 18,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1070,
+              268,
+              129,
+              129
+            ]
+          ]
+        },
+        {
+          "frame_id": 19,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1085,
+              282,
+              129,
+              129
+            ]
+          ]
+        },
+        {
+          "frame_id": 20,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1085,
+              297,
+              129,
+              129
+            ]
+          ]
+        },
+        {
+          "frame_id": 22,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1099,
+              311,
+              129,
+              129
+            ]
+          ]
+        },
+        {
+          "frame_id": 23,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1099,
+              325,
+              129,
+              129
+            ]
+          ]
+        },
+        {
+          "frame_id": 24,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1113,
+              325,
+              129,
+              129
+            ]
+          ]
+        },
+        {
+          "frame_id": 25,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1113,
+              305,
+              155,
+              155
+            ]
+          ]
+        },
+        {
+          "frame_id": 26,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1128,
+              311,
+              129,
+              129
+            ]
+          ]
+        },
+        {
+          "frame_id": 27,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1128,
+              311,
+              129,
+              129
+            ]
+          ]
+        },
+        {
+          "frame_id": 28,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1128,
+              297,
+              129,
+              129
+            ]
+          ]
+        },
+        {
+          "frame_id": 29,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1128,
+              282,
+              129,
+              129
+            ]
+          ]
+        },
+        {
+          "frame_id": 30,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1128,
+              282,
+              129,
+              129
+            ]
+          ]
+        },
+        {
+          "frame_id": 31,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1128,
+              282,
+              129,
+              129
+            ]
+          ]
+        },
+        {
+          "frame_id": 32,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1128,
+              282,
+              129,
+              129
+            ]
+          ]
+        },
+        {
+          "frame_id": 33,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1130,
+              307,
+              108,
+              107
+            ]
+          ]
+        },
+        {
+          "frame_id": 34,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1113,
+              311,
+              129,
+              129
+            ]
+          ]
+        },
+        {
+          "frame_id": 35,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1099,
+              325,
+              129,
+              129
+            ]
+          ]
+        },
+        {
+          "frame_id": 36,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1099,
+              325,
+              129,
+              129
+            ]
+          ]
+        },
+        {
+          "frame_id": 37,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1085,
+              340,
+              129,
+              129
+            ]
+          ]
+        },
+        {
+          "frame_id": 39,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1044,
+              305,
+              155,
+              155
+            ]
+          ]
+        },
+        {
+          "frame_id": 43,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1061,
+              270,
+              155,
+              155
+            ]
+          ]
+        },
+        {
+          "frame_id": 44,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1061,
+              270,
+              155,
+              155
+            ]
+          ]
+        },
+        {
+          "frame_id": 45,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1061,
+              270,
+              155,
+              155
+            ]
+          ]
+        },
+        {
+          "frame_id": 46,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1061,
+              288,
+              155,
+              154
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "file_name": "scene_30.mp4",
+      "start_timecode": "00:00:50.801",
+      "end_timecode": "00:00:51.635",
+      "target_face_coordinates": [
+        {
+          "frame_id": 1,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              304,
+              236,
+              155,
+              155
+            ]
+          ]
+        },
+        {
+          "frame_id": 2,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              304,
+              236,
+              155,
+              155
+            ]
+          ]
+        },
+        {
+          "frame_id": 3,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              304,
+              236,
+              155,
+              155
+            ]
+          ]
+        },
+        {
+          "frame_id": 4,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              304,
+              236,
+              155,
+              155
+            ]
+          ]
+        },
+        {
+          "frame_id": 5,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              304,
+              219,
+              155,
+              155
+            ]
+          ]
+        },
+        {
+          "frame_id": 6,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              304,
+              219,
+              155,
+              155
+            ]
+          ]
+        },
+        {
+          "frame_id": 7,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              304,
+              219,
+              155,
+              155
+            ]
+          ]
+        },
+        {
+          "frame_id": 8,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              304,
+              219,
+              155,
+              155
+            ]
+          ]
+        },
+        {
+          "frame_id": 9,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              304,
+              219,
+              155,
+              155
+            ]
+          ]
+        },
+        {
+          "frame_id": 10,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              304,
+              219,
+              155,
+              155
+            ]
+          ]
+        },
+        {
+          "frame_id": 11,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              322,
+              219,
+              154,
+              155
+            ]
+          ]
+        },
+        {
+          "frame_id": 12,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              322,
+              219,
+              154,
+              155
+            ]
+          ]
+        },
+        {
+          "frame_id": 13,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              322,
+              219,
+              154,
+              155
+            ]
+          ]
+        },
+        {
+          "frame_id": 14,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              322,
+              219,
+              154,
+              155
+            ]
+          ]
+        },
+        {
+          "frame_id": 15,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              304,
+              201,
+              185,
+              186
+            ]
+          ]
+        },
+        {
+          "frame_id": 16,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              324,
+              180,
+              186,
+              186
+            ]
+          ]
+        },
+        {
+          "frame_id": 17,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              324,
+              180,
+              186,
+              186
+            ]
+          ]
+        },
+        {
+          "frame_id": 18,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              324,
+              180,
+              186,
+              186
+            ]
+          ]
+        },
+        {
+          "frame_id": 19,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              315,
+              167,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 20,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              345,
+              180,
+              186,
+              186
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "file_name": "scene_32.mp4",
+      "start_timecode": "00:00:53.553",
+      "end_timecode": "00:00:57.599",
+      "target_face_coordinates": [
+        {
+          "frame_id": 1,
+          "num_detected_faces": 2,
+          "bbox": [
+            [
+              642,
+              337,
+              52,
+              52
+            ],
+            [
+              1447,
+              343,
+              43,
+              43
+            ]
+          ]
+        },
+        {
+          "frame_id": 2,
+          "num_detected_faces": 2,
+          "bbox": [
+            [
+              1437,
+              343,
+              43,
+              43
+            ],
+            [
+              631,
+              337,
+              51,
+              52
+            ]
+          ]
+        },
+        {
+          "frame_id": 3,
+          "num_detected_faces": 2,
+          "bbox": [
+            [
+              625,
+              337,
+              52,
+              52
+            ],
+            [
+              1432,
+              348,
+              44,
+              43
+            ]
+          ]
+        },
+        {
+          "frame_id": 4,
+          "num_detected_faces": 2,
+          "bbox": [
+            [
+              1423,
+              348,
+              43,
+              43
+            ],
+            [
+              619,
+              337,
+              52,
+              52
+            ]
+          ]
+        },
+        {
+          "frame_id": 5,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              607,
+              337,
+              52,
+              52
+            ]
+          ]
+        },
+        {
+          "frame_id": 6,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              602,
+              337,
+              52,
+              52
+            ]
+          ]
+        },
+        {
+          "frame_id": 7,
+          "num_detected_faces": 2,
+          "bbox": [
+            [
+              1399,
+              348,
+              43,
+              43
+            ],
+            [
+              590,
+              337,
+              52,
+              52
+            ]
+          ]
+        },
+        {
+          "frame_id": 8,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              584,
+              343,
+              52,
+              52
+            ]
+          ]
+        },
+        {
+          "frame_id": 9,
+          "num_detected_faces": 2,
+          "bbox": [
+            [
+              573,
+              343,
+              52,
+              52
+            ],
+            [
+              1380,
+              353,
+              43,
+              43
+            ]
+          ]
+        },
+        {
+          "frame_id": 10,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              561,
+              343,
+              52,
+              52
+            ]
+          ]
+        },
+        {
+          "frame_id": 11,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              556,
+              349,
+              51,
+              52
+            ]
+          ]
+        },
+        {
+          "frame_id": 12,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              544,
+              349,
+              52,
+              52
+            ]
+          ]
+        },
+        {
+          "frame_id": 13,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              538,
+              355,
+              52,
+              51
+            ]
+          ]
+        },
+        {
+          "frame_id": 14,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              529,
+              357,
+              62,
+              62
+            ]
+          ]
+        },
+        {
+          "frame_id": 15,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              533,
+              360,
+              51,
+              52
+            ]
+          ]
+        },
+        {
+          "frame_id": 16,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              533,
+              366,
+              51,
+              52
+            ]
+          ]
+        },
+        {
+          "frame_id": 17,
+          "num_detected_faces": 2,
+          "bbox": [
+            [
+              533,
+              366,
+              51,
+              52
+            ],
+            [
+              1351,
+              372,
+              43,
+              43
+            ]
+          ]
+        },
+        {
+          "frame_id": 18,
+          "num_detected_faces": 2,
+          "bbox": [
+            [
+              538,
+              372,
+              52,
+              52
+            ],
+            [
+              386,
+              420,
+              43,
+              43
+            ]
+          ]
+        },
+        {
+          "frame_id": 19,
+          "num_detected_faces": 2,
+          "bbox": [
+            [
+              544,
+              372,
+              52,
+              52
+            ],
+            [
+              389,
+              418,
+              51,
+              52
+            ]
+          ]
+        },
+        {
+          "frame_id": 20,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              550,
+              372,
+              52,
+              52
+            ]
+          ]
+        },
+        {
+          "frame_id": 21,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              561,
+              372,
+              52,
+              52
+            ]
+          ]
+        },
+        {
+          "frame_id": 22,
+          "num_detected_faces": 2,
+          "bbox": [
+            [
+              573,
+              372,
+              52,
+              52
+            ],
+            [
+              423,
+              412,
+              52,
+              52
+            ]
+          ]
+        },
+        {
+          "frame_id": 23,
+          "num_detected_faces": 2,
+          "bbox": [
+            [
+              590,
+              372,
+              52,
+              52
+            ],
+            [
+              440,
+              412,
+              52,
+              52
+            ]
+          ]
+        },
+        {
+          "frame_id": 24,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              598,
+              364,
+              62,
+              62
+            ]
+          ]
+        },
+        {
+          "frame_id": 25,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              625,
+              366,
+              52,
+              52
+            ]
+          ]
+        },
+        {
+          "frame_id": 26,
+          "num_detected_faces": 2,
+          "bbox": [
+            [
+              1471,
+              367,
+              43,
+              43
+            ],
+            [
+              642,
+              366,
+              52,
+              52
+            ]
+          ]
+        },
+        {
+          "frame_id": 27,
+          "num_detected_faces": 3,
+          "bbox": [
+            [
+              1495,
+              367,
+              43,
+              43
+            ],
+            [
+              671,
+              366,
+              52,
+              52
+            ],
+            [
+              440,
+              401,
+              52,
+              51
+            ]
+          ]
+        },
+        {
+          "frame_id": 28,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              348,
+              360,
+              52,
+              52
+            ]
+          ]
+        },
+        {
+          "frame_id": 29,
+          "num_detected_faces": 2,
+          "bbox": [
+            [
+              377,
+              360,
+              52,
+              52
+            ],
+            [
+              723,
+              372,
+              52,
+              52
+            ]
+          ]
+        },
+        {
+          "frame_id": 30,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              406,
+              366,
+              52,
+              52
+            ]
+          ]
+        },
+        {
+          "frame_id": 32,
+          "num_detected_faces": 2,
+          "bbox": [
+            [
+              468,
+              354,
+              129,
+              129
+            ],
+            [
+              1370,
+              245,
+              89,
+              90
+            ]
+          ]
+        },
+        {
+          "frame_id": 33,
+          "num_detected_faces": 2,
+          "bbox": [
+            [
+              468,
+              354,
+              129,
+              129
+            ],
+            [
+              1370,
+              245,
+              89,
+              90
+            ]
+          ]
+        },
+        {
+          "frame_id": 34,
+          "num_detected_faces": 2,
+          "bbox": [
+            [
+              454,
+              354,
+              129,
+              129
+            ],
+            [
+              1370,
+              245,
+              89,
+              90
+            ]
+          ]
+        },
+        {
+          "frame_id": 35,
+          "num_detected_faces": 2,
+          "bbox": [
+            [
+              454,
+              354,
+              129,
+              129
+            ],
+            [
+              1370,
+              245,
+              89,
+              90
+            ]
+          ]
+        },
+        {
+          "frame_id": 36,
+          "num_detected_faces": 2,
+          "bbox": [
+            [
+              454,
+              340,
+              129,
+              129
+            ],
+            [
+              1370,
+              245,
+              89,
+              90
+            ]
+          ]
+        },
+        {
+          "frame_id": 37,
+          "num_detected_faces": 2,
+          "bbox": [
+            [
+              440,
+              340,
+              129,
+              129
+            ],
+            [
+              1370,
+              245,
+              89,
+              90
+            ]
+          ]
+        },
+        {
+          "frame_id": 38,
+          "num_detected_faces": 2,
+          "bbox": [
+            [
+              1370,
+              245,
+              89,
+              90
+            ],
+            [
+              440,
+              340,
+              129,
+              129
+            ]
+          ]
+        },
+        {
+          "frame_id": 39,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1370,
+              245,
+              89,
+              90
+            ]
+          ]
+        },
+        {
+          "frame_id": 40,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1370,
+              245,
+              89,
+              90
+            ]
+          ]
+        },
+        {
+          "frame_id": 41,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1370,
+              245,
+              89,
+              90
+            ]
+          ]
+        },
+        {
+          "frame_id": 42,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1370,
+              245,
+              89,
+              90
+            ]
+          ]
+        },
+        {
+          "frame_id": 43,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1370,
+              245,
+              89,
+              90
+            ]
+          ]
+        },
+        {
+          "frame_id": 44,
+          "num_detected_faces": 2,
+          "bbox": [
+            [
+              1370,
+              245,
+              89,
+              90
+            ],
+            [
+              110,
+              225,
+              129,
+              129
+            ]
+          ]
+        },
+        {
+          "frame_id": 45,
+          "num_detected_faces": 2,
+          "bbox": [
+            [
+              1370,
+              245,
+              89,
+              90
+            ],
+            [
+              127,
+              235,
+              108,
+              108
+            ]
+          ]
+        },
+        {
+          "frame_id": 46,
+          "num_detected_faces": 2,
+          "bbox": [
+            [
+              1370,
+              245,
+              89,
+              90
+            ],
+            [
+              127,
+              235,
+              108,
+              108
+            ]
+          ]
+        },
+        {
+          "frame_id": 47,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1370,
+              245,
+              89,
+              90
+            ]
+          ]
+        },
+        {
+          "frame_id": 48,
+          "num_detected_faces": 2,
+          "bbox": [
+            [
+              1370,
+              245,
+              89,
+              90
+            ],
+            [
+              305,
+              345,
+              89,
+              90
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "file_name": "scene_33.mp4",
+      "start_timecode": "00:00:57.599",
+      "end_timecode": "00:00:59.059",
+      "target_face_coordinates": [
+        {
+          "frame_id": 1,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1356,
+              192,
+              222,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 2,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1356,
+              192,
+              222,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 3,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1356,
+              192,
+              222,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 4,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1380,
+              192,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 5,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1380,
+              192,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 6,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1360,
+              171,
+              267,
+              268
+            ]
+          ]
+        },
+        {
+          "frame_id": 7,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1380,
+              192,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 8,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1380,
+              192,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 9,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1380,
+              192,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 10,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1380,
+              192,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 11,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1360,
+              142,
+              267,
+              267
+            ]
+          ]
+        },
+        {
+          "frame_id": 12,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1360,
+              142,
+              267,
+              267
+            ]
+          ]
+        },
+        {
+          "frame_id": 29,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1526,
+              442,
+              154,
+              155
+            ]
+          ]
+        },
+        {
+          "frame_id": 30,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1526,
+              442,
+              154,
+              155
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "file_name": "scene_59.mp4",
+      "start_timecode": "00:01:39.308",
+      "end_timecode": "00:01:40.642",
+      "target_face_coordinates": [
+        {
+          "frame_id": 1,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              459,
+              184,
+              155,
+              155
+            ]
+          ]
+        },
+        {
+          "frame_id": 2,
+          "num_detected_faces": 2,
+          "bbox": [
+            [
+              459,
+              184,
+              155,
+              155
+            ],
+            [
+              1664,
+              221,
+              74,
+              75
+            ]
+          ]
+        },
+        {
+          "frame_id": 3,
+          "num_detected_faces": 3,
+          "bbox": [
+            [
+              459,
+              184,
+              155,
+              155
+            ],
+            [
+              1414,
+              239,
+              62,
+              62
+            ],
+            [
+              1655,
+              221,
+              75,
+              75
+            ]
+          ]
+        },
+        {
+          "frame_id": 4,
+          "num_detected_faces": 2,
+          "bbox": [
+            [
+              476,
+              184,
+              155,
+              155
+            ],
+            [
+              1649,
+              225,
+              62,
+              63
+            ]
+          ]
+        },
+        {
+          "frame_id": 5,
+          "num_detected_faces": 2,
+          "bbox": [
+            [
+              476,
+              184,
+              155,
+              155
+            ],
+            [
+              1630,
+              221,
+              75,
+              75
+            ]
+          ]
+        },
+        {
+          "frame_id": 6,
+          "num_detected_faces": 2,
+          "bbox": [
+            [
+              476,
+              202,
+              155,
+              154
+            ],
+            [
+              1622,
+              221,
+              75,
+              75
+            ]
+          ]
+        },
+        {
+          "frame_id": 7,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1621,
+              232,
+              62,
+              62
+            ]
+          ]
+        },
+        {
+          "frame_id": 8,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1606,
+              229,
+              74,
+              75
+            ]
+          ]
+        },
+        {
+          "frame_id": 9,
+          "num_detected_faces": 2,
+          "bbox": [
+            [
+              1597,
+              229,
+              75,
+              75
+            ],
+            [
+              469,
+              201,
+              186,
+              186
+            ]
+          ]
+        },
+        {
+          "frame_id": 10,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              448,
+              201,
+              186,
+              186
+            ]
+          ]
+        },
+        {
+          "frame_id": 11,
+          "num_detected_faces": 2,
+          "bbox": [
+            [
+              947,
+              205,
+              52,
+              52
+            ],
+            [
+              448,
+              201,
+              186,
+              186
+            ]
+          ]
+        },
+        {
+          "frame_id": 12,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              448,
+              201,
+              186,
+              186
+            ]
+          ]
+        },
+        {
+          "frame_id": 13,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              786,
+              222,
+              52,
+              52
+            ]
+          ]
+        },
+        {
+          "frame_id": 15,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              290,
+              247,
+              43,
+              43
+            ]
+          ]
+        },
+        {
+          "frame_id": 20,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              895,
+              199,
+              52,
+              52
+            ]
+          ]
+        },
+        {
+          "frame_id": 21,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1692,
+              187,
+              107,
+              108
+            ]
+          ]
+        },
+        {
+          "frame_id": 24,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1688,
+              186,
+              90,
+              89
+            ]
+          ]
+        },
+        {
+          "frame_id": 26,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1668,
+              187,
+              107,
+              108
+            ]
+          ]
+        },
+        {
+          "frame_id": 27,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1668,
+              187,
+              107,
+              108
+            ]
+          ]
+        },
+        {
+          "frame_id": 30,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1648,
+              196,
+              90,
+              89
+            ]
+          ]
+        },
+        {
+          "frame_id": 31,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1628,
+              196,
+              90,
+              89
+            ]
+          ]
+        },
+        {
+          "frame_id": 32,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              1619,
+              196,
+              89,
+              89
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "file_name": "scene_60.mp4",
+      "start_timecode": "00:01:40.642",
+      "end_timecode": "00:01:41.476",
+      "target_face_coordinates": [
+        {
+          "frame_id": 1,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              736,
+              316,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 2,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              736,
+              316,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 3,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              736,
+              316,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 4,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              712,
+              316,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 5,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              712,
+              316,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 6,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              712,
+              316,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 7,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              676,
+              290,
+              267,
+              268
+            ]
+          ]
+        },
+        {
+          "frame_id": 8,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              687,
+              291,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 9,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              646,
+              260,
+              268,
+              268
+            ]
+          ]
+        },
+        {
+          "frame_id": 10,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              687,
+              316,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 11,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              662,
+              316,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 12,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              662,
+              316,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 13,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              662,
+              316,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 14,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              662,
+              316,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 15,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              687,
+              316,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 16,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              687,
+              316,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 17,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              687,
+              316,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 18,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              712,
+              316,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 19,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              712,
+              316,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 20,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              712,
+              316,
+              223,
+              223
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "file_name": "scene_67.mp4",
+      "start_timecode": "00:01:48.275",
+      "end_timecode": "00:01:49.484",
+      "target_face_coordinates": [
+        {
+          "frame_id": 1,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              883,
+              99,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 2,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              883,
+              99,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 3,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              883,
+              99,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 4,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              883,
+              99,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 5,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              883,
+              99,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 6,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              883,
+              99,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 7,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              883,
+              99,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 8,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              883,
+              99,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 9,
+          "num_detected_faces": 2,
+          "bbox": [
+            [
+              847,
+              99,
+              321,
+              321
+            ],
+            [
+              154,
+              461,
+              75,
+              75
+            ]
+          ]
+        },
+        {
+          "frame_id": 10,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              847,
+              99,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 11,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              847,
+              99,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 12,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              847,
+              99,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 13,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              847,
+              99,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 14,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              847,
+              99,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 15,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              847,
+              99,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 16,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              847,
+              99,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 17,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              847,
+              99,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 18,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              847,
+              99,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 19,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              847,
+              99,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 20,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              883,
+              99,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 21,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              883,
+              99,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 22,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              883,
+              99,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 23,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              883,
+              63,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 24,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              883,
+              63,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 25,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              883,
+              63,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 26,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              883,
+              63,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 27,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              883,
+              63,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 28,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              883,
+              63,
+              321,
+              321
+            ]
+          ]
+        },
+        {
+          "frame_id": 29,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              883,
+              63,
+              321,
+              321
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "file_name": "scene_69.mp4",
+      "start_timecode": "00:01:50.068",
+      "end_timecode": "00:01:50.986",
+      "target_face_coordinates": [
+        {
+          "frame_id": 22,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              290,
+              320,
+              267,
+              267
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "file_name": "scene_71.mp4",
+      "start_timecode": "00:01:51.611",
+      "end_timecode": "00:01:54.698",
+      "target_face_coordinates": [
+        {
+          "frame_id": 1,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              538,
+              167,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 2,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              527,
+              142,
+              268,
+              267
+            ]
+          ]
+        },
+        {
+          "frame_id": 3,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              538,
+              167,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 4,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              538,
+              167,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 5,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              538,
+              167,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 6,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              538,
+              167,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 7,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              538,
+              167,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 8,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              538,
+              167,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 9,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              538,
+              167,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 10,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              538,
+              167,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 11,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              538,
+              167,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 12,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              538,
+              167,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 13,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              538,
+              167,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 14,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              538,
+              167,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 15,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              538,
+              167,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 16,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              538,
+              167,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 17,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              538,
+              167,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 18,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              538,
+              167,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 19,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              538,
+              167,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 20,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              538,
+              167,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 21,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              538,
+              167,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 22,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              538,
+              167,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 23,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              538,
+              167,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 24,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              538,
+              167,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 25,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              527,
+              142,
+              268,
+              267
+            ]
+          ]
+        },
+        {
+          "frame_id": 26,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              538,
+              167,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 27,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              527,
+              171,
+              268,
+              268
+            ]
+          ]
+        },
+        {
+          "frame_id": 28,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              538,
+              167,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 29,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              538,
+              167,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 30,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              538,
+              167,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 31,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              538,
+              167,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 32,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              538,
+              167,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 33,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              538,
+              167,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 34,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              538,
+              167,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 35,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              527,
+              171,
+              268,
+              268
+            ]
+          ]
+        },
+        {
+          "frame_id": 36,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              527,
+              171,
+              268,
+              268
+            ]
+          ]
+        },
+        {
+          "frame_id": 37,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              527,
+              171,
+              268,
+              268
+            ]
+          ]
+        },
+        {
+          "frame_id": 38,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              527,
+              171,
+              268,
+              268
+            ]
+          ]
+        },
+        {
+          "frame_id": 39,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              527,
+              171,
+              268,
+              268
+            ]
+          ]
+        },
+        {
+          "frame_id": 40,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              527,
+              171,
+              268,
+              268
+            ]
+          ]
+        },
+        {
+          "frame_id": 41,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              527,
+              171,
+              268,
+              268
+            ]
+          ]
+        },
+        {
+          "frame_id": 42,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              527,
+              142,
+              268,
+              267
+            ]
+          ]
+        },
+        {
+          "frame_id": 43,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              527,
+              142,
+              268,
+              267
+            ]
+          ]
+        },
+        {
+          "frame_id": 44,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              527,
+              142,
+              268,
+              267
+            ]
+          ]
+        },
+        {
+          "frame_id": 45,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              527,
+              142,
+              268,
+              267
+            ]
+          ]
+        },
+        {
+          "frame_id": 46,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              527,
+              142,
+              268,
+              267
+            ]
+          ]
+        },
+        {
+          "frame_id": 47,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              527,
+              142,
+              268,
+              267
+            ]
+          ]
+        },
+        {
+          "frame_id": 48,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              563,
+              142,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 49,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              563,
+              142,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 50,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              563,
+              142,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 51,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              563,
+              142,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 52,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              557,
+              142,
+              268,
+              267
+            ]
+          ]
+        },
+        {
+          "frame_id": 53,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              588,
+              142,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 54,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              588,
+              142,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 55,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              588,
+              142,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 56,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              588,
+              142,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 57,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              588,
+              142,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 58,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              588,
+              142,
+              223,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 59,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              613,
+              142,
+              222,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 60,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              613,
+              142,
+              222,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 61,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              613,
+              142,
+              222,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 62,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              613,
+              118,
+              222,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 63,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              613,
+              118,
+              222,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 64,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              613,
+              118,
+              222,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 65,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              613,
+              118,
+              222,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 66,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              613,
+              118,
+              222,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 67,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              613,
+              118,
+              222,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 68,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              613,
+              118,
+              222,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 69,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              613,
+              118,
+              222,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 70,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              613,
+              118,
+              222,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 71,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              613,
+              118,
+              222,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 72,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              613,
+              118,
+              222,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 73,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              613,
+              118,
+              222,
+              223
+            ]
+          ]
+        },
+        {
+          "frame_id": 74,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              613,
+              118,
+              222,
+              223
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "file_name": "scene_72.mp4",
+      "start_timecode": "00:01:54.698",
+      "end_timecode": "00:01:58.327",
+      "target_face_coordinates": [
+        {
+          "frame_id": 1,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              541,
+              357,
+              555,
+              554
+            ]
+          ]
+        },
+        {
+          "frame_id": 2,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              541,
+              357,
+              555,
+              554
+            ]
+          ]
+        },
+        {
+          "frame_id": 3,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              541,
+              357,
+              555,
+              554
+            ]
+          ]
+        },
+        {
+          "frame_id": 4,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              541,
+              357,
+              555,
+              554
+            ]
+          ]
+        },
+        {
+          "frame_id": 5,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              541,
+              357,
+              555,
+              554
+            ]
+          ]
+        },
+        {
+          "frame_id": 6,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              541,
+              357,
+              555,
+              554
+            ]
+          ]
+        },
+        {
+          "frame_id": 7,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              541,
+              357,
+              555,
+              554
+            ]
+          ]
+        },
+        {
+          "frame_id": 8,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              541,
+              357,
+              555,
+              554
+            ]
+          ]
+        },
+        {
+          "frame_id": 9,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              541,
+              357,
+              555,
+              554
+            ]
+          ]
+        },
+        {
+          "frame_id": 10,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              428,
+              280,
+              665,
+              666
+            ]
+          ]
+        },
+        {
+          "frame_id": 11,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              541,
+              357,
+              555,
+              554
+            ]
+          ]
+        },
+        {
+          "frame_id": 12,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              541,
+              357,
+              555,
+              554
+            ]
+          ]
+        },
+        {
+          "frame_id": 13,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              541,
+              357,
+              555,
+              554
+            ]
+          ]
+        },
+        {
+          "frame_id": 14,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              541,
+              357,
+              555,
+              554
+            ]
+          ]
+        },
+        {
+          "frame_id": 15,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              541,
+              418,
+              555,
+              555
+            ]
+          ]
+        },
+        {
+          "frame_id": 16,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              541,
+              418,
+              555,
+              555
+            ]
+          ]
+        },
+        {
+          "frame_id": 17,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              541,
+              418,
+              555,
+              555
+            ]
+          ]
+        },
+        {
+          "frame_id": 18,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              479,
+              418,
+              555,
+              555
+            ]
+          ]
+        },
+        {
+          "frame_id": 19,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              479,
+              418,
+              555,
+              555
+            ]
+          ]
+        },
+        {
+          "frame_id": 20,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              479,
+              418,
+              555,
+              555
+            ]
+          ]
+        },
+        {
+          "frame_id": 21,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              479,
+              418,
+              555,
+              555
+            ]
+          ]
+        },
+        {
+          "frame_id": 22,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              479,
+              418,
+              555,
+              555
+            ]
+          ]
+        },
+        {
+          "frame_id": 23,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              479,
+              418,
+              555,
+              555
+            ]
+          ]
+        },
+        {
+          "frame_id": 24,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              479,
+              418,
+              555,
+              555
+            ]
+          ]
+        },
+        {
+          "frame_id": 25,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              479,
+              418,
+              555,
+              555
+            ]
+          ]
+        },
+        {
+          "frame_id": 26,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              479,
+              418,
+              555,
+              555
+            ]
+          ]
+        },
+        {
+          "frame_id": 27,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              479,
+              418,
+              555,
+              555
+            ]
+          ]
+        },
+        {
+          "frame_id": 28,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              479,
+              418,
+              555,
+              555
+            ]
+          ]
+        },
+        {
+          "frame_id": 29,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              479,
+              418,
+              555,
+              555
+            ]
+          ]
+        },
+        {
+          "frame_id": 30,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              479,
+              418,
+              555,
+              555
+            ]
+          ]
+        },
+        {
+          "frame_id": 31,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              479,
+              418,
+              555,
+              555
+            ]
+          ]
+        },
+        {
+          "frame_id": 32,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              479,
+              418,
+              555,
+              555
+            ]
+          ]
+        },
+        {
+          "frame_id": 33,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              479,
+              418,
+              555,
+              555
+            ]
+          ]
+        },
+        {
+          "frame_id": 34,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              541,
+              418,
+              555,
+              555
+            ]
+          ]
+        },
+        {
+          "frame_id": 35,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              541,
+              418,
+              555,
+              555
+            ]
+          ]
+        },
+        {
+          "frame_id": 36,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              541,
+              418,
+              555,
+              555
+            ]
+          ]
+        },
+        {
+          "frame_id": 37,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              541,
+              418,
+              555,
+              555
+            ]
+          ]
+        },
+        {
+          "frame_id": 38,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              541,
+              418,
+              555,
+              555
+            ]
+          ]
+        },
+        {
+          "frame_id": 39,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              541,
+              418,
+              555,
+              555
+            ]
+          ]
+        },
+        {
+          "frame_id": 40,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              541,
+              418,
+              555,
+              555
+            ]
+          ]
+        },
+        {
+          "frame_id": 41,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              541,
+              357,
+              555,
+              554
+            ]
+          ]
+        },
+        {
+          "frame_id": 42,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              541,
+              357,
+              555,
+              554
+            ]
+          ]
+        },
+        {
+          "frame_id": 43,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              541,
+              357,
+              555,
+              554
+            ]
+          ]
+        },
+        {
+          "frame_id": 44,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              541,
+              357,
+              555,
+              554
+            ]
+          ]
+        },
+        {
+          "frame_id": 45,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              541,
+              357,
+              555,
+              554
+            ]
+          ]
+        },
+        {
+          "frame_id": 46,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              541,
+              357,
+              555,
+              554
+            ]
+          ]
+        },
+        {
+          "frame_id": 47,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              541,
+              357,
+              555,
+              554
+            ]
+          ]
+        },
+        {
+          "frame_id": 48,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              541,
+              357,
+              555,
+              554
+            ]
+          ]
+        },
+        {
+          "frame_id": 49,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              541,
+              357,
+              555,
+              554
+            ]
+          ]
+        },
+        {
+          "frame_id": 50,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              541,
+              357,
+              555,
+              554
+            ]
+          ]
+        },
+        {
+          "frame_id": 51,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              541,
+              357,
+              555,
+              554
+            ]
+          ]
+        },
+        {
+          "frame_id": 52,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              541,
+              357,
+              555,
+              554
+            ]
+          ]
+        },
+        {
+          "frame_id": 53,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              541,
+              357,
+              555,
+              554
+            ]
+          ]
+        },
+        {
+          "frame_id": 54,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              541,
+              357,
+              555,
+              554
+            ]
+          ]
+        },
+        {
+          "frame_id": 55,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              502,
+              280,
+              665,
+              666
+            ]
+          ]
+        },
+        {
+          "frame_id": 56,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              502,
+              280,
+              665,
+              666
+            ]
+          ]
+        },
+        {
+          "frame_id": 57,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              502,
+              280,
+              665,
+              666
+            ]
+          ]
+        },
+        {
+          "frame_id": 58,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              502,
+              280,
+              665,
+              666
+            ]
+          ]
+        },
+        {
+          "frame_id": 59,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              502,
+              206,
+              665,
+              666
+            ]
+          ]
+        },
+        {
+          "frame_id": 60,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              502,
+              206,
+              665,
+              666
+            ]
+          ]
+        },
+        {
+          "frame_id": 61,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              502,
+              206,
+              665,
+              666
+            ]
+          ]
+        },
+        {
+          "frame_id": 62,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              502,
+              206,
+              665,
+              666
+            ]
+          ]
+        },
+        {
+          "frame_id": 63,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              502,
+              206,
+              665,
+              666
+            ]
+          ]
+        },
+        {
+          "frame_id": 64,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              502,
+              206,
+              665,
+              666
+            ]
+          ]
+        },
+        {
+          "frame_id": 65,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              502,
+              206,
+              665,
+              666
+            ]
+          ]
+        },
+        {
+          "frame_id": 66,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              502,
+              206,
+              665,
+              666
+            ]
+          ]
+        },
+        {
+          "frame_id": 67,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              502,
+              206,
+              665,
+              666
+            ]
+          ]
+        },
+        {
+          "frame_id": 68,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              502,
+              206,
+              665,
+              666
+            ]
+          ]
+        },
+        {
+          "frame_id": 69,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              502,
+              206,
+              665,
+              666
+            ]
+          ]
+        },
+        {
+          "frame_id": 70,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              502,
+              206,
+              665,
+              666
+            ]
+          ]
+        },
+        {
+          "frame_id": 71,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              502,
+              206,
+              665,
+              666
+            ]
+          ]
+        },
+        {
+          "frame_id": 72,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              502,
+              206,
+              665,
+              666
+            ]
+          ]
+        },
+        {
+          "frame_id": 73,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              502,
+              206,
+              665,
+              666
+            ]
+          ]
+        },
+        {
+          "frame_id": 74,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              502,
+              280,
+              665,
+              666
+            ]
+          ]
+        },
+        {
+          "frame_id": 75,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              502,
+              206,
+              665,
+              666
+            ]
+          ]
+        },
+        {
+          "frame_id": 76,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              502,
+              280,
+              665,
+              666
+            ]
+          ]
+        },
+        {
+          "frame_id": 77,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              502,
+              280,
+              665,
+              666
+            ]
+          ]
+        },
+        {
+          "frame_id": 78,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              502,
+              280,
+              665,
+              666
+            ]
+          ]
+        },
+        {
+          "frame_id": 79,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              502,
+              206,
+              665,
+              666
+            ]
+          ]
+        },
+        {
+          "frame_id": 80,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              502,
+              206,
+              665,
+              666
+            ]
+          ]
+        },
+        {
+          "frame_id": 81,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              502,
+              206,
+              665,
+              666
+            ]
+          ]
+        },
+        {
+          "frame_id": 82,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              502,
+              206,
+              665,
+              666
+            ]
+          ]
+        },
+        {
+          "frame_id": 83,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              502,
+              206,
+              665,
+              666
+            ]
+          ]
+        },
+        {
+          "frame_id": 84,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              502,
+              206,
+              665,
+              666
+            ]
+          ]
+        },
+        {
+          "frame_id": 85,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              502,
+              206,
+              665,
+              666
+            ]
+          ]
+        },
+        {
+          "frame_id": 86,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              502,
+              206,
+              665,
+              666
+            ]
+          ]
+        },
+        {
+          "frame_id": 87,
+          "num_detected_faces": 1,
+          "bbox": [
+            [
+              502,
+              206,
+              665,
+              666
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "video_properties": {
+    "fps": 23.976023976023978,
+    "width": 1920,
+    "height": 1080
+  }
+}
