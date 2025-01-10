@@ -16,7 +16,6 @@ A Python tool for splitting videos into scenes and detecting target faces in vid
   <img src="https://img.youtube.com/vi/J5XFYMsczy8/maxresdefault.jpg" width="350" title="video">
 </p>
 
-https://github.com/user-attachments/assets/8329c8b3-ec32-4747-bbfe-eada3754fb11
 
 * Example pairs of detection results:
   * Left: frames where faces were detected
