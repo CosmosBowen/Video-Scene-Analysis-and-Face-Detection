@@ -1,6 +1,6 @@
 # Video Scene Analysis and Face Detection
 
-A Python tool for splitting videos into scenes and detecting target human faces in videos.
+A Python tool for splitting videos into scenes and detecting target faces in videos.
 
 * `refenrence_face.jpg` [<a href="https://lh3.googleusercontent.com/-bFf6KPCwpiPVvXDX5Zx_Z2PgJYIqm52hWyDvCl3cTEj-lQ_aY2vRg7kalqsQ1uP9KaGZgkv9ECnT9B1uJMqZNwT2piWKS2ySCRuoQdF4VrRfu82ig=w1440">source</a>]
 <p align="center">
@@ -16,15 +16,14 @@ A Python tool for splitting videos into scenes and detecting target human faces 
   <img src="https://img.youtube.com/vi/J5XFYMsczy8/maxresdefault.jpg" width="350" title="video">
 </p>
 
-https://github.com/user-attachments/assets/2f147782-a292-499d-9e94-1c3e613c9003
-
+https://github.com/user-attachments/assets/8329c8b3-ec32-4747-bbfe-eada3754fb11
 
 * Example pairs of detection results:
   * Left: frames where faces were detected
   * Right: same frames with bounding box visualization
 <p align="center">
-  <img src="frame.png" width="350" alt="frame.png">
-  <img src="marked_frame.png" width="350" alt="marked_frame.png">
+  <img src="https://github.com/user-attachments/assets/7b221deb-dbb8-4f8a-b211-cd185d00ebe5" width="350" alt="frame.png">
+  <img src="https://github.com/user-attachments/assets/e03805a4-ec09-40a7-8ff8-b977282f5031" width="350" alt="marked_frame.png">
   
   <img src="https://github.com/user-attachments/assets/295d1b49-e2aa-42f3-9907-b2647421a44b" width="350" alt="frame.png">
   <img src="https://github.com/user-attachments/assets/72c5a76f-ddd5-499a-8e98-c5a1439bce3a" width="350" alt="marked_frame.png">
@@ -100,8 +99,7 @@ pip install scenedetect
 ```
 project/
 ├── scripts/
-│   ├── detect.ipynb        
-│   └── detect_outputs_from_3_cases.ipynb 
+│   └── detect.ipynb        
 ├── source/
 │   ├── video.mp4     
 │   └── reference_face.jpg   
@@ -130,7 +128,6 @@ project/
 │       └── metadata.json
 ├── scripts/
 │   └── detect.ipynb
-│   └── detect_outputs_from_3_cases.ipynb
 ├── source/
 │   ├── video.mp4
 │   └── reference_face.jpg
@@ -243,8 +240,6 @@ project/results/<reference_face_name>_<video_name>/
     }
 }
 ```
-
-
 
 # Limitations
 
