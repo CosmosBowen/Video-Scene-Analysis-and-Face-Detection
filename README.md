@@ -46,18 +46,18 @@ Before running the detection, here's what you can expect to find in the results:
   
 ## Setup Instructions
 
-### Prerequisites
+### 1. Prerequisites
 * Python 3.10.12
 * Conda package manager
 * VS Code (recommended)
 
-### 1. Clone this repository:
+### 2. Clone this repository:
 ```bash
 git clone https://github.com/CosmosBowen/Video-Scene-Analysis-and-Face-Detection.git
 cd project
 ```
 
-### 2. Create Environment
+### 3. Create Environment
 
 * Check if conda is installed:
 ```bash
@@ -70,7 +70,7 @@ conda create --name face_detection python=3.10.12
 conda activate face_detection
 ```
 
-### 3. Install Dependencies
+### 4. Install Dependencies
 ```bash
 # First, install the base requirements
 pip install -r requirements.txt
@@ -82,7 +82,7 @@ conda install -c conda-forge opencv
 pip install scenedetect
 ```
 
-### 4. Set up Jupyter Notebook in VS Code:
+### 5. Set up Jupyter Notebook in VS Code:
 * Open VS Code and navigate to the project folder `code .`
 * Open `detect.ipynb`
 * Click on `"Select Kernel"` in the top-right corner
@@ -103,7 +103,7 @@ pip install scenedetect
 * The kernel should now be ready to run the notebook
 
 ## Project Structure
-#### Before Detection
+### Before Detection
 ```
 project/
 ├── scripts/
@@ -115,7 +115,7 @@ project/
 └── README.md
 ```
 
-#### After Detection
+### After Detection
 ```
 project/
 ├── results/
