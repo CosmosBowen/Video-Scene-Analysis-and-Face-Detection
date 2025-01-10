@@ -12,23 +12,24 @@ A Python tool for splitting videos into scenes and detecting target faces in vid
 ``` bash
 !yt-dlp -f 'bestvideo[ext=mp4][vcodec^=avc]+bestaudio[ext=m4a]' J5XFYMsczy8 -o project/source/video.mp4
 ```
-<p align="center">
-  <img src="https://img.youtube.com/vi/J5XFYMsczy8/maxresdefault.jpg" width="350" title="video">
-</p>
-
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=J5XFYMsczy8" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.youtube.com/vi/J5XFYMsczy8/maxresdefault.jpg" width="500"/>
+  </a>
+</div>
 
 * Example pairs of detection results:
   * Left: frames where faces were detected
   * Right: same frames with bounding box visualization
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7b221deb-dbb8-4f8a-b211-cd185d00ebe5" width="350" alt="frame.png">
-  <img src="https://github.com/user-attachments/assets/e03805a4-ec09-40a7-8ff8-b977282f5031" width="350" alt="marked_frame.png">
+  <img src="https://github.com/user-attachments/assets/94f17136-5a72-4542-b8e0-a38f278c02d3" width="350" alt="frame.png">
+  <img src="https://github.com/user-attachments/assets/e4f81e82-892c-470d-bf92-95ccf6c53982" width="350" alt="marked_frame.png">
   
-  <img src="https://github.com/user-attachments/assets/295d1b49-e2aa-42f3-9907-b2647421a44b" width="350" alt="frame.png">
-  <img src="https://github.com/user-attachments/assets/72c5a76f-ddd5-499a-8e98-c5a1439bce3a" width="350" alt="marked_frame.png">
+  <img src="https://github.com/user-attachments/assets/63d34b07-67fb-489c-85fd-b36c3c0eaa9c" width="350" alt="frame.png">
+  <img src="https://github.com/user-attachments/assets/cf54ce2f-f89a-4938-9113-0a3806f8eb3e" width="350" alt="marked_frame.png">
   
-  <img src="https://github.com/user-attachments/assets/b3b81924-1fe7-40f0-8903-d9d761b1c45f" width="350" alt="frame.png">
-  <img src="https://github.com/user-attachments/assets/b81373a0-d6c4-400d-bac7-aef898e78db1" width="350" alt="marked_frame.png">
+  <img src="https://github.com/user-attachments/assets/ba735cc7-b5d2-423c-93ca-77240e685781" width="350" alt="frame.png">
+  <img src="https://github.com/user-attachments/assets/3aafdfcf-d57b-4b27-867b-0b3f2aa0d71d" width="350" alt="marked_frame.png">
 </p>
 
 # What you will get from all of these
@@ -78,17 +79,17 @@ pip install scenedetect
 2. Open `detect.ipynb`
 3. Click on `"Select Kernel"` in the top-right corner
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/426e9176-81de-44a6-b008-c93499fece8b" width="700" title="refenrence face">
+  <img src="https://github.com/user-attachments/assets/f15f0b88-59d8-4d75-899d-afcb2ee39786" width="700" title="refenrence face">
 </p>
 
 5. Click on `"Python Environments"`
 <p align="center"> 
-  <img src="https://github.com/user-attachments/assets/045f8b0a-c588-4dfe-9928-1923b108d6bc" width="600" title="refenrence face">
+  <img src="https://github.com/user-attachments/assets/296cf9ac-ded4-475c-856c-21374b169646" width="600" title="refenrence face">
 </p>
 
 6. Select the `face_detection` conda environment we just created
 <p align="center"> 
-  <img src="https://github.com/user-attachments/assets/d1bd4e7d-dbba-4498-a550-5b74a3f9df46" width="600" title="refenrence face">
+  <img src="https://github.com/user-attachments/assets/b620a33f-39df-45d2-a362-857efe5ded39" width="600" title="refenrence face">
 </p>
 
 7. The kernel should now be ready to run the notebook
@@ -143,13 +144,13 @@ project/
 
 ```python
 run_detect(
-    reference_face_name =  "<your_reference_face>.jpg", 
-    video_name = "<your_video>.mp4", 
+    reference_face_name =  "<your_reference_face_image>", 
+    video_name = "<your_video>", 
     tolerance = 0.679, 
     show_process = # True for detailed output
 )  
 ```
-The results will be saved in `project/results/<your_reference_face>_<your_video>/` directory.
+The results will be saved in `project/results/<your_reference_face_name>_<your_video>_name/` directory.
 
 
 
